@@ -1,0 +1,10 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=PCB docs\Relay.PrjPCB
+[Project2]
+ProjectPath=PCB docs\Switch.PrjPCB
+[Project3]
+ProjectPath=PCB docs\Keypad.PrjPCB
+[Project4]
+ProjectPath=PCB docs\Motor_SBS.PrjPCB
